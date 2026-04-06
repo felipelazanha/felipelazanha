@@ -1,16 +1,10 @@
 ### Olá! Eu sou o Felipe C Lazanha 👋
 
-- 🔭 Hoje trabalho com suporte ao usuário na Secretária da Educação de Ourinhos ...
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas na FATEC - Ourinhos ...
-- 😄 Pronouns: ele/dele
+Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Segurança da Informação, buscando aprofundar continuamente meus conhecimentos na área de tecnologia. Como Assistente COPE na Alares Internet, atuo no monitoramento, configuração e manutenção de sistemas de rede, garantindo que as operações de TI sejam realizadas de maneira eficiente e organizada.
 
-##
+Meu objetivo é ampliar minha experiência e atuar em diferentes frentes da tecnologia, explorando oportunidades em gestão de sistemas e administração de redes, enfrentando desafios que impulsionem meu desenvolvimento profissional e aprendizado contínuo. Estou sempre disposto a aprender, evoluir e agregar valor aos times e projetos nos quais participo.
 
-<div>  
-<a href="https://github.com/felipelazanha">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipelazanha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelazanha&layout=compact&langs_count=16&theme=dark"/>
-</div>
+Valorizo o trabalho em equipe, a comunicação clara e a resolução de problemas, buscando compartilhar conhecimento e gerar resultados de qualidade. Tenho facilidade em me adaptar a novas situações, apoiar os colegas e colaborar para o bom andamento das atividades, promovendo um ambiente produtivo e positivo.
 
 ##
 
