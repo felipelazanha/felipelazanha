@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Felipe C Lazanha 👋
 
-Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Segurança da Informação, buscando aprofundar continuamente meus conhecimentos na área de tecnologia. Como Assistente COPE na Alares Internet, atuo no monitoramento, configuração e manutenção de sistemas de rede, garantindo que as operações de TI sejam realizadas de maneira eficiente e organizada.
+Sou formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Segurança da Informação, buscando aprofundar continuamente meus conhecimentos na área de tecnologia. Atuo no desenvolvimento de soluções de software, automação e arquitetura de sistemas, garantindo que as aplicações sejam construídas de maneira eficiente, segura e organizada.
 
-Meu objetivo é ampliar minha experiência e atuar em diferentes frentes da tecnologia, explorando oportunidades em gestão de sistemas e administração de redes, enfrentando desafios que impulsionem meu desenvolvimento profissional e aprendizado contínuo. Estou sempre disposto a aprender, evoluir e agregar valor aos times e projetos nos quais participo.
+Meu objetivo é projetar sistemas escaláveis e ferramentas inteligentes, explorando oportunidades que envolvam desenvolvimento web, arquitetura de código e engenharia de software. Busco constantemente enfrentar desafios que impulsionem meu desenvolvimento profissional e aprendizado contínuo, focado em criar soluções que resolvam problemas reais e agreguem valor técnico aos times e projetos dos quais participo.
 
-Valorizo o trabalho em equipe, a comunicação clara e a resolução de problemas, buscando compartilhar conhecimento e gerar resultados de qualidade. Tenho facilidade em me adaptar a novas situações, apoiar os colegas e colaborar para o bom andamento das atividades, promovendo um ambiente produtivo e positivo.
+Valorizo o trabalho em equipe, a comunicação clara e a resolução de problemas por meio do código limpo, buscando compartilhar conhecimento e gerar resultados de alta qualidade. Tenho facilidade em me adaptar a novas pilhas tecnológicas (stacks), colaborar de forma ágil com outros desenvolvedores e contribuir para o bom andamento dos projetos, promovendo um ambiente produtivo e focado em inovação.
 
 ##
 
