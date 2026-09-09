@@ -28,10 +28,5 @@ Valorizo o trabalho em equipe, a comunicação clara e a resolução de problema
   <a href="mailto:felipelazanha@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://discord.gg/YUUXU8BE" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a> 
-  <a href="https://www.youtube.com/channel/UC7emeptv0X-ELE2ujOLioGg" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
+   </a>
 </div>
